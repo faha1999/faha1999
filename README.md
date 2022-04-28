@@ -15,8 +15,6 @@
   <img src="https://img.shields.io/github/stars/faha1999?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
   <img src="https://img.shields.io/static/v1?label=wechat&message=kafaha1999&color=7BB32E&logo=wechat">
  </p>
- 
-  [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kawsarahmedfahad.vercel.app/)
 
 - I'm a self-taught passionate FrontEnd developer from Bangladesh.
 - 🌱 I’m currently learning React
@@ -57,7 +55,7 @@
 </p>
 
 <p align="center">
-<img src="https://metrics.lecoq.io/faha1999?template=classic&languages=1&habits=1&isocalendar=1&achievements=1&support=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka"/>
+<img src="https://metrics.lecoq.io/faha1999?template=classic&base.header=0&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka"/>
 </p>
 
 ## Profile Trophy
