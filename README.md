@@ -66,7 +66,7 @@
 ## tasks
 
 - [x] Born
-- [ ] Got a job
+- [ ] Become an entertainer
 - [ ] Married
 - [ ] Have children
 - [ ] Die
