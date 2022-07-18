@@ -55,8 +55,10 @@
 </p>
 
 <p align="center">
-<img src="https://metrics.lecoq.io/faha1999?template=classic&base.header=0&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka"/>
+<img src="https://beta-metrics.lecoq.io/faha1999?template=classic&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka"/>
 </p>
+
+
 
 ## Profile Trophy
 
