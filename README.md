@@ -31,7 +31,7 @@
 
 ## 📊 Github stats
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=faha1999&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=faha1999&bg_color=1F222E&color=F8D866&line=ff8301&point=FFFFFF&area=true&hide_border=true" /></a>
 
 <br>
 
@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-<img src="https://metrics.lecoq.io/faha1999?template=classic&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka"/>
+<img src="https://metrics.lecoq.io/faha1999?template=classic&achievements=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka"/>
 </p>
 
 
