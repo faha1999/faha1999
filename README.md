@@ -18,8 +18,8 @@
 
 - I'm a self-taught passionate FrontEnd developer from Bangladesh.
 - 🌱 I’m currently learning React
-- My hobby is reading books, listening music, playing games.
-- Sometimes, I write small poems, stories too.
+- My hobby is reading books, listening to music, and playing games.
+- Sometimes, I write small poems, and stories too.
 
 ## 🔥 Streak stats
 
@@ -31,8 +31,7 @@
 
 ## 📊 Github stats
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=faha1999&bg_color=1F222E&color=F8D866&line=ff8301&point=FFFFFF&area=true&hide_border=true" /></a>
-
+[![faha1999's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faha1999&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
 
