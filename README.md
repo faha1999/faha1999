@@ -10,7 +10,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-up-brightgreen">
   <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey">
-  <img src="https://gpvc.arturio.dev/faha1999">
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/faha1999?label=Followers&style=social">  
   <img src="https://img.shields.io/github/stars/faha1999?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
   <img src="https://img.shields.io/static/v1?label=wechat&message=kafaha1999&color=7BB32E&logo=wechat">
@@ -50,7 +49,7 @@
   <a href="https://github.com/faha1999">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
   </a>
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
+  <h4 align="center"><code>📊 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
 </p>
 
 <p align="center">
