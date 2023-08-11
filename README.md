@@ -16,7 +16,7 @@
  </p>
 
 - I'm a self-taught passionate FrontEnd developer from Bangladesh.
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Next.js and TypeScript.
 - My hobby is reading books, listening to music, and playing games.
 - Sometimes, I write small poems, and stories too.
 
