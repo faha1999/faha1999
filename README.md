@@ -16,10 +16,14 @@
  </p>
 
 - I'm a self-taught passionate FrontEnd developer from Bangladesh.
-- 📚 I'm constantly learning new skills and striving for progress
+- 💬 Loves to Talk about Technology, Software, Coding, And Ideas.
+- 📚 I'm constantly learning new skills and striving for progress.
+- 🤝 Open for Collaboration, Excited to collaborate on innovative projects.
 - 🌱 I’m currently learning Next.js and TypeScript.
 - My hobby is reading books, listening to music, and playing games.
 - Sometimes, I write small poems, and stories too.
+
+#### Specialized In [ Front End ]
 
 ## 🔥 Streak stats
 
@@ -34,6 +38,29 @@
 [![faha1999's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faha1999&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
+#### Contact Info
+
+
+<a href="mailto:kafahad1999@gmail.com">
+    <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://kawsarahmedfahad.vercel.app/">
+   <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+</a>
+ <a href="https://www.linkedin.com/in/faha1999/">
+       <img src="https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+ <a href="https://www.facebook.com/faha1999/">
+       <img src="https://img.shields.io/badge/Facebook-323330?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+ 
+<a href="https://kawsarahmedfahad.medium.com/">
+       <img src="https://img.shields.io/badge/Medium-323330?logo=medium&logoColor=white&style=for-the-badge" />
+    </a>
+
+
+<br  />
+<br  />
 
 <p align="center">
   <a href="https://github.com/faha1999">
@@ -63,7 +90,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=faha1999&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## tasks
+## Tasks
 
 - [x] Born
 - [ ] Become an entertainer
