@@ -44,7 +44,7 @@
 <a href="mailto:kafahad1999@gmail.com">
     <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-<a href="https://kawsarahmedfahad.vercel.app/">
+<a href="https://www.faha.me/">
    <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
 </a>
  <a href="https://www.linkedin.com/in/faha1999/">
