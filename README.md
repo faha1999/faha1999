@@ -12,8 +12,9 @@
 
 ### 👨‍💻 About Me
 - 🚀 Passionate **Front-End Developer** and **Team Lead** in the **E-commerce sector**.  
-- 🌍 Currently based in **Shanghai, China**.  
-- 🤝 Campus Ambassador at **Bangladesh-China Youth Student Association (BCYSA)**.  
+- 🌍 Currently based in **Shanghai, China**.
+- 💻 Associate Team **IT** at Bangladesh-China Youth Student Association - BCYSA
+- 🤝 Former Campus Ambassador at **Bangladesh-China Youth Student Association (BCYSA)**.  
 - 💡 Skilled in building **scalable web apps** using **React, Next.js, TypeScript & Tailwind**.  
 - 🏆 Achievements:  
   - 🎖️ **Bertelsmann Technology Scholarship** – Azure Cloud Architect Challenge  
