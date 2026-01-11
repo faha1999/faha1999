@@ -52,9 +52,10 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=faha1999&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&hide_border=true&show_icons=true" alt="GitHub Stats" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=faha1999&langs_count=15&layout=compact&theme=radical&hide_border=true&hide_progress=true" />
+<img height=200 src="https://github-readme-stats-fast.vercel.app/api?username=faha1999&show_icons=true&theme=radical" />
+<img height=200 src="https://github-readme-stats-fast.vercel.app/api/streak?username=faha1999&theme=radical" />
 </p>
 
 ---
