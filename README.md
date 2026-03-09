@@ -28,7 +28,7 @@
 - ⚙️ Backend Basics (Node.js, Express, Firebase)  
 - 📊 E-commerce Systems & AI-powered Tools  
 - 🌐 Building Scalable Web Applications  
-- 🌱 Learning Paths: **Next.js 15, TypeScript, AI & AI agent, Automation**  
+- 🌱 Learning Paths: **Next.js, TypeScript, AI & AI agent, Automation**  
 
 ---
 
@@ -105,6 +105,9 @@ Here are some of my recent projects.
 | Project Name | Description | Link |
 |--------------|-------------|------|
 | Budget Manager | A comprehensive personal finance management web application tailored for users in Bangladesh. It empowers individuals to plan and monitor their finances by tracking daily income and expenses, managing bank accounts and investments, setting savings goals, and planning for financial independence. | [Live](https://personal-budget-manager-beta.vercel.app/)
+| Falah Ventures | Production-shaped MVP implementation of the Falah Ventures Shariah-compliant mutual finance platform. | [Live](https://www.falah.ventures/)
+| VisaGen | A platform for general users to create accounts and submit visa applications. | [Live](https://visazen.xyz/) |
+| VisaPro | A platform for B2B travel agencies and internal operations to process, assign, and submit those applications. | [Live](https://visazen.xyz/visapro) |
 | Photo Card Generator | Create customizable photo cards with templates, filters, and adjustable image settings, perfect for social media posts, brand promotions, and eCommerce marketing. | [Live](https://photo-card-beta.vercel.app/)
 | raqi | A scalable e-commerce platform with AI-powered tools. | [Live](https://raqibd.com/)
 | ehsanbizz | A professional B2B sourcing portal to showcase all sourced products, accept quotation requests directly from product pages, generate auto‑PDF quotes, and enable post‑quote discussion. | [Live](https://ehsanbizz.com/) |
