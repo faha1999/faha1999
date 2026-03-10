@@ -63,6 +63,8 @@
 ### 📈 GitHub Activity Graph
 [![faha1999's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faha1999&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faha1999&theme=github_dark" />
+
 ---
 
 ### 📫 Connect With Me
