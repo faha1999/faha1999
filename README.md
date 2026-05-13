@@ -94,7 +94,7 @@
 
 ### Tasks
 - [x] Born
-- [x] Become an entertainer
+- [x] Become an entrepreneur
 - [ ] Married
 - [ ] Have children
 - [ ] Die
