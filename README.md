@@ -25,7 +25,7 @@
 
 ### 💬 Ask Me About
 - 💻 Frontend Development (React, Next.js, Tailwind)  
-- ⚙️ Backend Basics (Node.js, Express, Firebase)  
+- ⚙️ Backend (Node.js, Express, Firebase)  
 - 📊 E-commerce Systems & AI-powered Tools  
 - 🌐 Building Scalable Web Applications  
 - 🌱 Learning Paths: **Next.js, TypeScript, AI & AI agent, Automation**  
@@ -114,14 +114,14 @@ Here are some of my recent projects.
 | raqi | A scalable e-commerce platform with AI-powered tools. | [Live](https://raqibd.com/)
 | ehsanbizz | A professional B2B sourcing portal to showcase all sourced products, accept quotation requests directly from product pages, generate auto‑PDF quotes, and enable post‑quote discussion. | [Live](https://ehsanbizz.com/) |
 | OnlineBangla.net | A comprehensive platform for Modern Bengali-first news portal | [Live](https://onlinebangla.net/) |
-| Takamul MCQ Exam System | An online examination system for multiple-choice questions (MCQs) designed for Takamul MCQ Exam. | [Live](https://takamul-mu.vercel.app/)
+| Takamul MCQ Exam System | An online examination system for multiple-choice questions (MCQs) designed for the Takamul MCQ Exam. | [Live](https://takamul-mu.vercel.app/)
 | Portfolio Website | My personal portfolio showcasing my projects and skills. | [Live](https://www.faha.me/) |
 | HanFlash | A lightweight, fast, and distraction-free web application designed to help learners search, memorize, and practice Chinese vocabulary & reading for HSK Levels 1–4. | [Live](https://hanflash.vercel.app/) |
 | Frontend Mentor Challenges Solutions | Solutions to various frontend challenges from Frontend Mentor. | [Repo](https://github.com/faha1999/Frontend-Mentor-Challenges-Solutions) |
 | SylChina Express | A logistics management system for SylChina Express. | [Live](https://sylchinaexpress.com/) |
 | compass-office | Brand portfolio for Compass Office. | [Live](https://compassoffice.ae/) |
-| VeriTrustAI | An AI-powered designed to address the growing problem of fake orders in Bangladesh's e-commerce sector. | [Live](https://veritrustai.pro/)
-| PreLoved Mobiles | thesis project for An e-commerce platform for buying and selling used mobile phones. | [Live](https://theis-project.vercel.app/)
+| VeriTrustAI | An AI-powered solution designed to address the growing problem of fake orders in Bangladesh's e-commerce sector. | [Live](https://veritrustai.pro/)
+| PreLoved Mobiles | thesis project for an e-commerce platform for buying and selling used mobile phones. | [Live](https://theis-project.vercel.app/)
 | SinoBangla Impact Network (SBIN) | SBIN aims to foster collaboration and communication between Mandarin & Bengali speaking community members. | [Live](https://sbin.global/)
 
 ---
