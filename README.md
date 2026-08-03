@@ -1,5 +1,14 @@
 <h1 align="center">👋 Hi, I’m Kawsar Ahmed Fahad</h1>
 
+<h3 align="center">
+Entrepreneur • Product Engineer • AI Automation Builder
+</h3>
+
+<p align="center">
+Building software, AI systems, and cross-border commerce between
+🇧🇩 Bangladesh and 🇨🇳 China.
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen">
   <img src="https://img.shields.io/badge/From-Bangladesh-ffce00?style=flat&logo=flag&logoColor=white">
@@ -11,15 +20,20 @@
 ---
 
 ### 👨‍💻 About Me
-- 🚀 Passionate **Front-End Developer** and **Team Lead** in the **E-commerce sector**.  
+- 🚀 Passionate **Developer** and **Team Lead** in the **E-commerce sector**.  
 - 🌍 Currently based in **Shanghai, China**.
+-  Founder of **[Faha Studio](https://www.faha.studio)**, a platform for building scalable web applications and AI-powered tools.
 - 💻 Associate Team **IT** at Bangladesh-China Youth Student Association - BCYSA
 - 🤝 Former Campus Ambassador at **Bangladesh-China Youth Student Association (BCYSA)**.  
 - 💡 Skilled in building **scalable web apps** using **React, Next.js, TypeScript & Tailwind**.  
 - 🏆 Achievements:  
   - 🎖️ **Bertelsmann Technology Scholarship** – Azure Cloud Architect Challenge  
   - ❄️ **Arctic Code Vault Contributor** (GitHub Archive Program 2020)  
-  - 🏅 Winner in **JITRI Cup Global Entrepreneurial Competition 2024**  
+  - 🏅 Winner in **JITRI Cup Global Entrepreneurial Competition 2024** 
+
+> Rather than focusing on writing code alone, I enjoy solving business problems through technology, from AI automation and SaaS platforms to cross-border commerce and scalable digital infrastructure.
+
+> I believe software should create measurable business value, not just beautiful interfaces. 
 
 ---
 
@@ -123,6 +137,44 @@ Here are some of my recent projects.
 | VeriTrustAI | An AI-powered solution designed to address the growing problem of fake orders in Bangladesh's e-commerce sector. | [Live](https://veritrustai.pro/)
 | PreLoved Mobiles | thesis project for an e-commerce platform for buying and selling used mobile phones. | [Live](https://theis-project.vercel.app/)
 | SinoBangla Impact Network (SBIN) | SBIN aims to foster collaboration and communication between Mandarin & Bengali speaking community members. | [Live](https://sbin.global/)
+
+---
+
+# 🔥 Currently Exploring
+
+- Multi-Agent AI Systems
+- AI Engineering
+- LLM Applications
+- AI Workflows
+- Business Automation
+- LangGraph
+- Model Context Protocol (MCP)
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases
+- Agentic AI
+- Cross-border Digital Commerce
+
+---
+
+# 🌱 Beyond Coding
+
+Outside of software development, I enjoy
+
+📚 Reading books
+
+✈️ Traveling
+
+☕ Coffee
+
+🌏 Learning about different cultures
+
+🇨🇳 Improving Mandarin Chinese
+
+🎵 Music
+
+🎮 Casual gaming
+
+📈 Studying business
 
 ---
 
